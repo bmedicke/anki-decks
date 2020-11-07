@@ -2,6 +2,17 @@
 
 These decks are generated from Google Docs documents with the anki-remote-decks plugin.
 
+---
+
+
+<!-- vim-markdown-toc GFM -->
+
+* [basics](#basics)
+* [Google Docs formatting guideline](#google-docs-formatting-guideline)
+* [Google Docs deck sources](#google-docs-deck-sources)
+
+<!-- vim-markdown-toc -->
+
 ## basics
 
 * [what is spaced repetition?](https://en.wikipedia.org/wiki/Spaced_repetition)
