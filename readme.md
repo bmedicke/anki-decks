@@ -8,13 +8,13 @@ These decks are generated from Google Docs documents with the anki-remote-decks 
 
 <!-- vim-markdown-toc GFM -->
 
-* [basics](#basics)
+* [Basics](#basics)
 * [Google Docs formatting guideline](#google-docs-formatting-guideline)
 * [Google Docs deck sources](#google-docs-deck-sources)
 
 <!-- vim-markdown-toc -->
 
-## basics
+## Basics
 
 * [what is spaced repetition?](https://en.wikipedia.org/wiki/Spaced_repetition)
 * [what is Anki?](https://apps.ankiweb.net/)
