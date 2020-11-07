@@ -24,7 +24,7 @@ These decks are generated from Google Docs documents with the anki-remote-decks 
 
 The following describes the meaning of various formatting options.
 
-* italics: the following list refers to the italicized term
+* *italics:* the following list refers to the italicized term
 
 References are located at the top of each GDoc document.
 
