@@ -11,8 +11,8 @@ As such pull requests can't be merged directly. (They are still welcome though ð
 
 * [Basics](#basics)
 * [Google Docs formatting guideline](#google-docs-formatting-guideline)
-* [Google Docs deck sources](#google-docs-deck-sources)
 * [Using the decks](#using-the-decks)
+* [Google Docs deck sources](#google-docs-deck-sources)
   * [MCS (Master IT-Security)](#mcs-master-it-security)
     * [Semester 1](#semester-1)
 
@@ -33,18 +33,18 @@ The following describes the meaning of various formatting options.
 
 References are located at the top of each GDoc document.
 
-## Google Docs deck sources
-
-Here are the published documents, in case you would like to generate the decks yourself.
-
-You'll need to install the Anki Desktop App, add the anki-remote-decks plugin and then add the links as remote sources.
-
 ## Using the decks
 
 * Android (free): [AnkiDroid](https://play.google.com/store/apps/details?id=com.ichi2.anki)
 * iOS (25 units of money): [AnkiMobile](https://apps.apple.com/us/app/ankimobile-flashcards/id373493387)
 * Web Interface: [AnkiWeb](https://ankiweb.net/about) (works great on tablets)
 * [Desktop Apps](https://apps.ankiweb.net/) (macOS, Linux, Windows)
+
+## Google Docs deck sources
+
+Here are the published documents, in case you would like to generate the decks yourself. The finished decks are in [decks](decks).
+
+You'll need to install the Anki Desktop App, add the anki-remote-decks plugin and then add the links as remote sources.
 
 ### MCS (Master IT-Security)
 
