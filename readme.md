@@ -43,7 +43,7 @@ You'll need to install the Anki Desktop App, add the anki-remote-decks plugin an
 
 * Android (free): [AnkiDroid](https://play.google.com/store/apps/details?id=com.ichi2.anki)
 * iOS (25 units of money): [AnkiMobile](https://apps.apple.com/us/app/ankimobile-flashcards/id373493387)
-* Web Interface: [AnkiWeb](https://ankiweb.net/about)
+* Web Interface: [AnkiWeb](https://ankiweb.net/about) (works great on tablets)
 * [Desktop Apps](https://apps.ankiweb.net/) (macOS, Linux, Windows)
 
 ### MCS (Master IT-Security)
