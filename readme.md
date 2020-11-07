@@ -11,6 +11,8 @@ These decks are generated from Google Docs documents with the anki-remote-decks 
 * [Basics](#basics)
 * [Google Docs formatting guideline](#google-docs-formatting-guideline)
 * [Google Docs deck sources](#google-docs-deck-sources)
+  * [MCS (Master IT-Security)](#mcs-master-it-security)
+    * [Semester 1](#semester-1)
 
 <!-- vim-markdown-toc -->
 
@@ -35,6 +37,8 @@ Here are the published documents, in case you would like to generate the decks y
 
 You'll need to install the Anki Desktop App, add the anki-remote-decks plugin and then add the links as remote sources.
 
-* MCS (Master IT-Security)
-  * Semester 1
-    * [SECOP](https://docs.google.com/document/d/e/2PACX-1vRSV466DDMxEO12970Rrs2ZLLO-MwK1gXR2AqkGqP0y36rr06GjAhDP9PkWkQcZsRdwsg5APaUMnEJV/pub) (Secure Operating Systems)
+### MCS (Master IT-Security)
+
+#### Semester 1
+
+* [SECOP](https://docs.google.com/document/d/e/2PACX-1vRSV466DDMxEO12970Rrs2ZLLO-MwK1gXR2AqkGqP0y36rr06GjAhDP9PkWkQcZsRdwsg5APaUMnEJV/pub) (Secure Operating Systems)
