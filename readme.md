@@ -4,6 +4,7 @@ These decks are generated from Google Docs documents with the anki-remote-decks 
 
 ---
 
+# Table of Contents
 
 <!-- vim-markdown-toc GFM -->
 
