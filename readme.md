@@ -53,3 +53,4 @@ You'll need to install the Anki Desktop App, add the anki-remote-decks plugin an
 #### Semester 1
 
 * [SECOP](https://docs.google.com/document/d/e/2PACX-1vRSV466DDMxEO12970Rrs2ZLLO-MwK1gXR2AqkGqP0y36rr06GjAhDP9PkWkQcZsRdwsg5APaUMnEJV/pub) (Secure Operating Systems)
+* [ITS](https://docs.google.com/document/d/e/2PACX-1vQBsCoMRJRB9vsHAEGTw7P_24QR7AQV00ZQu9cFLchwbM2N7n8P7OnokwZUkGxKZQymMbUz0rnueBIG/pub) (IT-Sicherheit)
