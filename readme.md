@@ -3,6 +3,8 @@
 These decks are generated from Google Docs documents with the anki-remote-decks plugin.
 As such pull requests can't be merged directly. (They are still welcome though 😃).
 
+They are either in German, English or (usually) a mixture of both.
+
 ---
 
 # Table of Contents
